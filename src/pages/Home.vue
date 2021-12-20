@@ -1,9 +1,9 @@
 <template>
   <main
-    class=" px-10 py-20 text-center text-gray-700 container mx-auto"
+    class=" px-10 py-20 text-gray-700 container mx-auto"
   >
     <h1 class="text-5xl font-bold font-sans">Hi, I'm Mark</h1>
-    <p class="text-4xl pt-10 text-center pb-1">
+    <p class="text-4xl pt-10 pb-1">
       I'm a UI/UX Software Engineer based in Teesside, England. I specialise in
       making minimilistic designs and clean functional interfaces for a better
       World Wide Web utilising the latest Javascript Frameworks/Libraries
@@ -14,7 +14,7 @@
       <a href="https://tryhackme.com" class="text-blue-600">tryhackme.com</a>)
     </p>
 
-    <section class="Portfolio text-center ">
+    <section class="Portfolio">
       <h2 class="text-5xl pt-20">My Projects</h2>
       <h3 class="text-4xl pt-3 pb-2">Prompt @ npower</h3>
       <p>
@@ -43,7 +43,7 @@
       </p>
       </div>
     </section>
-     <section class="Portfolio text-center container">
+     <section class="Portfolio container">
       <h2 class="text-5xl pt-10">Contact Me</h2>
       <a class="text-4xl pt-3 text-blue-600" href="https://www.linkedin.com/in/mark-tallentire-a1331738/">LinkedIn</a>
      
