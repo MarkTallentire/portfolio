@@ -9,9 +9,8 @@
       World Wide Web utilising the latest Javascript Frameworks/Libraries
     </p>
     <p class="text-lg">
-      (Sometimes you'll even catch me writing backend code in C# .NET (Core/6),
-      making games in Unity and practicing ethical hacking with
-      <a href="https://tryhackme.com" class="text-blue-600">tryhackme.com</a>)
+      (Sometimes you'll even catch me writing backend code in C# .NET (Core/6), or playing Anno)
+
     </p>
 
     <section class="Portfolio">
@@ -36,11 +35,13 @@
         vNext is a product that helps achieve this by providing cargo shipping
         companies across the world with the tools they need to ship dangerous
         goods in a safe manner.
-        <p>Utilising VueJS, Typescript, Pinia, Vue-Router, Jest and Cypress, 
+      </p>
+
+        <p>Utilising VueJS, Typescript, Pinia, Vue-Router, Jest and Cypress,
           I am responsible for building the newest iteration of Exis's frontend interfaces to ensure that their mission is successful, 
           vNext is due to launch in 2022 and is expected to significantly improve our customers relationship with our software
           </p>
-      </p>
+
       </div>
     </section>
      <section class="Portfolio container">
@@ -49,6 +50,11 @@
      
     </section>
   </main>
+
+  <footer class="flex items-center justify-center">
+    <img src="/ribbon-black.png" height="70" width="50" alt="Black Ribbon"/>
+    <p>Queen Elizabeth II 1926-2022</p>
+  </footer>
 </template>
 
 <script lang="ts" setup></script>
