@@ -5,7 +5,7 @@
     <h1 class="text-5xl font-bold font-sans">Hi, I'm Mark</h1>
     <p class="text-4xl pt-10 pb-1">
       I'm a UI/UX Software Engineer based in Teesside, England. I specialise in
-      making minimilistic designs and clean functional interfaces for a better
+      making minimalistic designs and clean functional interfaces for a better
       World Wide Web utilising the latest Javascript Frameworks/Libraries
     </p>
     <p class="text-lg">
